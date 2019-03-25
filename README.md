@@ -57,7 +57,7 @@ The OS with all the required libraries (previously listed) is available at Mega 
 ### Cloning EsanCoin
 On each virtual machine, open the terminal and download the project.
 ```
-$ git clone https://github.com/johnkevinbarrera/EsanCoin.git
+$ git clone https://github.com/esc000658/EsanCoin.git
 ```
 
 ### Installing EsanCoin
